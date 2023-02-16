@@ -10,6 +10,7 @@
   "author": "Edgars",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^4.14.1"
+    "live-server": "^1.1.0",
+    "node-sass": "^8.0.0"
   }
 }
